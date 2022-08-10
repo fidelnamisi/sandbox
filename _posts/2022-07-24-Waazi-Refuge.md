@@ -17,11 +17,7 @@ image:
   alt:
 Description: Anything from the tiniest of villages to the most bustling of space hurled gigantic space stations.
 ---
-The Wa' azi Refuge
-=============
 
-
-THE WA'AZI REFUGE:
 Hideout of the sorcerers trying to escape the strict laws against magic 
 
 People say the area is protected by very dangerous curses and anyone who approaches will die a painful death.
