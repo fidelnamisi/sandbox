@@ -1,8 +1,25 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 6
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+**About This Website**
+
+My website is a sandbox where I tinker with vast and varied ideas, because I find that putting stuff in writing helps with thinking them through.
+
+**About Me**
+
+I write screenplays for feature films and dramas. I also have a couple of novels on Amazon. Godwilling I'll be able to write another one soon!
+
+
+<a href="https://www.imdb.com/name/nm3416947/">
+<img src="https://s2.loli.net/2022/07/29/GmOfuV3lAszYcCb.png" alt="IMDB"
+	 width="200" height="100">
+</a>
+
+![]()
+
+
+
+
