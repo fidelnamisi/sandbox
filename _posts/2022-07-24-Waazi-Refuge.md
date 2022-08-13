@@ -1,7 +1,7 @@
 
 ---
 title: The Waázi Refuge
-aliases:
+aliases: waazi refuge
 author: fidel
 date: 2022-07-21
 summary: 
