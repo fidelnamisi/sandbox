@@ -21,17 +21,18 @@ CATEGORIES AND SUBCATEGORIES
 
 NEW CATEGORIZATION
 
-| Category   | Subcategory            | Description               | My Why For Doing It |
-| ---------- | ---------------------- | ------------------------- | ------------------- |
-| FICTION    |                        |                           |                     |
-|            | Short Stories          | Self explanatory          |                     |
-|            | Project Burnt Baobab   | TWOTB elements            |                     |
-|            | Project Scorched Earth | Jet Jungle elements       |                     |
-|            | Jihara                 | Jihara elements           |                     |
-|            |                        |                           |                     |
-| NONFICTION |                        |                           |                     |
-|            | Blog                   |                           |                     |
-|            | Spiritual Ideas        | Some notes from my prayer | If anyone gets to heaven somewhere somehow because of reading this, the it increases my own chances also.                    |
+| Category   | Subcategory            | Description               | My Why For Doing It                                                                                       |
+| ---------- | ---------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| FICTION    |                        |                           |                                                                                                           |
+|            | Short Stories          | Self explanatory          |                                                                                                           |
+|            | Project Blue Baobab   | TWOTB elements            |                                                                                                           |
+|            | Project Scorched Earth | Jet Jungle elements       |                                                                                                           |
+|            | Jihara                 | Jihara elements           |                                                                                                           |
+|            |                        |                           |                                                                                                           |
+| NONFICTION |                        |                           |                                                                                                           |
+|            | Blog                   |                           |                                                                                                           |
+|            | Spiritual Ideas        | Some notes from my prayer | If anyone gets to heaven somewhere somehow because of reading this, the it increases my own chances also. |
+|            | Literature Notes       |                           |                                                                                                           |
 
 ##### OTHER TAGS 
 
@@ -87,3 +88,7 @@ Remember that every outcome is a note.
 
 
 
+SOME INSTRUCTIONS
+
+- List all the notes with the same tag using the Dataview query.
+- Then after that, read them and look for an idea that stands out.
