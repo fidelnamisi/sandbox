@@ -1,46 +1,89 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+##### NOTE TYPES
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
+Note types are classified under tags in the frontmatter of the notes. The first tag is generally the note type.
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+The following are the current note types:
+#process
+#link
+#project
+#task
+#fleeting
+#literature
+#permanent
+#canon
 
-## Prerequisites
+All permanent notes will be in the posts folder and will be published depending on how they are named. If named with a date etc then they will get automatically published.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+CATEGORIES AND SUBCATEGORIES
 
-## Installation
+NEW CATEGORIZATION
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+| Category   | Subcategory            | Description               | My Why For Doing It |
+| ---------- | ---------------------- | ------------------------- | ------------------- |
+| FICTION    |                        |                           |                     |
+|            | Short Stories          | Self explanatory          |                     |
+|            | Project Burnt Baobab   | TWOTB elements            |                     |
+|            | Project Scorched Earth | Jet Jungle elements       |                     |
+|            | Jihara                 | Jihara elements           |                     |
+|            |                        |                           |                     |
+| NONFICTION |                        |                           |                     |
+|            | Blog                   |                           |                     |
+|            | Spiritual Ideas        | Some notes from my prayer | If anyone gets to heaven somewhere somehow because of reading this, the it increases my own chances also.                    |
 
-Then clone it to your local machine and run:
+##### OTHER TAGS 
 
-```
-$ bundle
-```
+| Tag                          | Type            | Description |
+| ---------------------------- | --------------- | ----------- |
+| #protag-wound                | Process Outcome |             |
+| #protag-belief               | Process Outcome |             |
+| #protag-shielding-behaviour  | Process Outcome |             |
+| #protag-desire               | Process Outcome |             |
+| #protag-constriction         | Process Outcome |             |
+| #protag-relationship         | Process Outcome |             |
+| #protag-resistance           | Process Outcome |             |
+| #protag-mirror-moment        | Process Outcome |             |
+| #protag-dig-deep             | Process Outcome |             |
+| #protag-transformation       | Process Outcome |             |
+| #partner-wound               | Process Outcome |             |
+| #partner-belief              | Process Outcome |             |
+| #partner-shielding-behaviour | Process Outcome |             |
+| #partner-desire              | Process Outcome |             |
+| #partner-constriction        | Process Outcome |             |
+| #partner-relationship        | Process Outcome |             |
+| #partner-resistance          | Process Outcome |             |
+| #partner-mirror-moment       | Process Outcome |             |
+| #partner-dig-deep            | Process Outcome |             |
+| #partner-transformation      | Process Outcome |             |
+| #antag-wound                 | Process Outcome |             |
+| #antag-belief                | Process Outcome |             |
+| #antag-shielding-behaviour   | Process Outcome |             |
+| #antag-desire                | Process Outcome |             |
+| #antag-constriction          | Process Outcome |             |
+| #antag-relationship          | Process Outcome |             |
+| #antag-resistance            | Process Outcome |             |
+| #antag-mirror-moment         | Process Outcome |             |
+| #antag-dig-deep              | Process Outcome |             |
+| #antag-transformation        | Process Outcome                |             |
 
-## Usage
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+##### TAGS WITH SUBTAGS
 
-## License
+#links/prompts
 
-This work is published under [MIT][mit] License.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+### PROCESSES
+
+Remember that every outcome is a note.
+
+
+| PROCESS NAME              | TYPE   | OUTCOME                                                                                                                               | TOOLS      |
+| ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Midpoint Longhand writing | Wonder | #protag-wound #protag-belief #protag-shielding-behaviour #protag-desire #protag-mirror-moment #protag-dig-deep #protag-transformation #partner-wound #partner-belief #partner-shielding-behaviour #partner-desire #partner-mirror-moment #partner-dig-deep #partner-transformation #antag-wound #antag-belief #antag-shielding-behaviour #antag-desire #antag-mirror-moment #antag-dig-deep #antag-transformation  | Rocketbook |
+|                           |        |                                                                                                                                       |            |
+
+
+
+

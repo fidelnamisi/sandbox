@@ -5,7 +5,7 @@ author: fidel
 date: 2022-08-13
 summary: 
 bitly: 
-categories: [ Category,Subcategory ]
+categories: [ Nonficton,Blog ]
 tags: children wonder philosophy socratic-process
 math: true
 mermaid: true
