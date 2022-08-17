@@ -1,0 +1,1 @@
+Whenever I find myself feeling discouraged about my brothers, may I never forget that Our Lord has put His #faith and #trust in them, the same way He put His faith on eleven humble men who didn't have high ranks or position in society. 
