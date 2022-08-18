@@ -1,19 +1,17 @@
 
+#### YAML
 
+type: denotes the type of note.
 
-##### NOTE TYPES
-
-Note types are classified under tags in the frontmatter of the notes. The first tag is generally the note type.
-
-The following are the current note types:
-#process
-#link
-#project
-#task
-#fleeting
-#literature
-#permanent
-#canon
+process
+link
+project
+task
+fleeting
+literature
+permanent
+canon
+navigation
 
 All permanent notes will be in the posts folder and will be published depending on how they are named. If named with a date etc then they will get automatically published.
 

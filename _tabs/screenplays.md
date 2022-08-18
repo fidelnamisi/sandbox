@@ -7,7 +7,7 @@ order: 4
 It could be argued that sharing these scripts with whoever happens to bump into them is not a good idea, for a whole number of reasons. But as I am learning the art of questioning my own beliefs and never taking anything beyond the realm of faith and morals too seriously...these scripts can just chill here in the interim awaiting the outcome of my inner debate...
 
 
-| Title                 | Genre                | Synpopsis |
+| Title                 | Genre                | Synopsis |
 | --------------------- | -------------------- | --------- |
 | [Remix Episode 1](https://www.icloud.com/iclouddrive/094C5lXNidgkTQDwdjCto4v2A#Remix-101-12-10-2012)       | Musical Drama-Comedy |           |
 | [Remix Episode 5](https://www.icloud.com/iclouddrive/055YxFwj-9CsngtqvWAIijvvA#Remix-105-09-11-2012)       | Musical Drama-Comedy |           |
