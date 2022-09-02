@@ -10,9 +10,7 @@ tags: mortimer adler book reading summaries how-tos
 math: true
 mermaid: true
 image:
-  path: https://s2.loli.net/2022/08/16/eMWQ1PJfUHD6Rap.png)
-  width: 200 
-  height: 300 
+  path: https://s2.loli.net/2022/09/01/tcrv7TOb9CxILQg.png
   alt:
 ---
 
