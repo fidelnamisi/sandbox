@@ -247,6 +247,9 @@ exclude:
   - node_modules
   - package*.json
   - 000. Work/
+  - 001. Flashcards/
+  - 002. Quotes/
+  - templates/
 
 jekyll-archives:
   enabled: [categories, tags]
