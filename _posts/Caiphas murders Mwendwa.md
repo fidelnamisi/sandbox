@@ -1,0 +1,23 @@
+---
+title: Caiphas murders Mwendwa
+tags: scenes thestanleychronicles novels 
+description: 
+synopsis: Caiphas wakes up from the Passage, throttles Mwendwa, takes the obelisk for himself. ENDS WITH Caiphas buying petrol at the petrol station.
+---
+
+Caiphas woke up with a gasp. He was flat on his back, and he was being dragged out of the room. Mwendwa let Caiphas's feet fall out of his grasp and turned around, in shock.
+"But---."
+He didn't have time to finish his sentence. Caiphas was on him in flash. He grabbed the skinny man's throat in his bare hands, and started squeezing hard. Mwendwa shrieked, and pulled at Caiphas's hands, trying to pry them away from his neck. But he was much older than Caiphas, and nowhere near as strong. It was an unfair match, in a few seconds, Mwendwa was flat on the floor, with Caiphas on top of him, gasping for air as the veins in his temple throbbed and his eyes bulged out of their sockets. Caiphas shut his eyes and focused all his energy on squeezing the last dregs of life out of the old man's body. Finally, Mwendwa stopped struggling and lay still. Caiphas climbed back from him, breathing heavily and wiping beads of sweat off his forehead. He looked at the old man, laying there, twisted and silent on the hard concrete floor. For a second, he went blank, not knowing what to do and not knowing where to go next. He slowly climbed to his feet and stepped over the body, going back into the consultation room. The obelisk was still there, it's top edge sticking out of the bucket. Caiphas lifted it out of the bucket, tipping it over in the process, and placed it carefully on the floor. It was unscathed, and still shone jet black in the dim sunlight that came in through the small window near the ceiling. He blew some traces of ashes off of it, and started to lug it back to the waiting area. Changing his mind quickly, he got up, crossed in the waiting area, and returned seconds later with his backpack and the bubble wrapping that had been left carelessly on the floor. He wrapped the obelisk hurriedly in the bubble wrap, and put it back inside the backpack. He hauled it onto his shoulder, groaning under it's weight, and took one last look at the space. Certain that he had left nothing that he had come in with behind him, he stepped out again into the waiting area and stepped over Mwendwa's dead body. He took a hurried look around the room, just to make doubly-sure. Then he stepped over to the door, and turned the key in the lock. He stuck his head out the door and looked up and down the passage. There was nobody there. He stepped out of the apartment, and, as an afterthought, pulled the key out and locked the door behind him. He put the key inside his trouser pocket, and hurried down the stairs.
+
+He drove out of the inner city and onto the highway. As soon as he saw a sign indicating a  a petrol station, he pulled out of the traffic and took the off-ramp that would get him there. As he slowed down and eased off the highway, he rolled down his car window, pulled the key out of his trouser pocket, and hurled it out the window and into the clumps of bushes growing on the side of the road.
+
+Pulling up at the petrol station, he stopped in front of a petrol pump and stepped out of the car. An attendant came hurrying up to him.
+"Howzit, boss?"
+"Do you have a jerry-can?"
+"A what?"
+"A jerry-can?" Caiphas repeated, gesturing with his hands, "I need to carry some petrol."
+"Ah, you mean a gallon."
+"Yes."
+"We don't have any, but I can try and organise one for you."
+"Please do," Caiphas said, pulling out his wallet and taking out a two hundred rand note. "I'm in a hurry. Fill it up and keep the change." The attendant's eyes widened, and he ran off towards the other attendants, lounging against the wall of the convenience store near the petrol pumps. Caiphas watched the attendant wildly gesticulating at the other attendants, who seemed suddenly excited. One of them got up and jogged around the building, disappearing from view. He returned a few minutes later, carrying a plastic jerry-can with him. The first attendant grabbed it, ran to a petrol pump, and filled it up with a golden-yellow liquid. He screwed the cap on tight, and then lugged it back to Caiphas. Caiphas opened the boot of his car with the remote control.
+"Put it in there." The attendant did as instructed. Caiphas ignored his many affirmations of gratitude and invitations to come again next time if there was anything he needed. He hopped back into his car, fired up the engine, and sped off.

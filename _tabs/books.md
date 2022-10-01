@@ -1,5 +1,6 @@
 ---
 title: Books
+tags: site-pages
 icon: fas fa-info-circle
 order: 3
 ---

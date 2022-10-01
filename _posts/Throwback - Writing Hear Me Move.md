@@ -6,7 +6,6 @@ tags: review hearmemove
 
 I want to do a throwback to my experience writing the screenplay for the dance film “Hear Me Move.”
 
-  
 
 I finished the first draft in July 2011 .At the time, the working title of the story was “Contenders Only.” I was happy with the story at the time, and felt that I had given it my all. After that we went into developments hiatus, a euphemism for development hell. It was the time during which we were trying to raise money to fund the film. It took us much longer than we thought it would. By us, I mean my business partners at the time: Wandile Molebatsi and Scottnes L. Smith. We were producing projects under our company, Coal Stove Pictures.
 
