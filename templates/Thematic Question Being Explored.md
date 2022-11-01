@@ -1,3 +1,7 @@
+---
+tags: templates utdl structured-free-assosciation-plot-story-method
+---
+ 
  Insert a brief statement here stating what the story is really about at its core. This will be drawn from the midpoint mirror moment reflection.
 
 

@@ -22,12 +22,13 @@ by Mortimer J. Adler and Charles van Doren
 -   The aim of the book is to get readers to be active when reading a book. Active reading means asking the book the right questions, in the right order, as one reads. As one learns from a teacher by asking questions, so one also learns from a book.
 -   This summary will follow this structure: Question To Be Asked - Reading Level It Pertains To - Reading Stage- Rules for that Stage - Notes to be made. But first, some explanatory notes on some of the key concepts in the book.
 -   **On Reading Levels & Their Stages:**
-    -   _Reading Levels are different positions on the qualitative scale of reading. The higher the level, the higher the quality of reading and comprehension implied._
-    -   _Reading stages are steps within the reading process. One step follows from the other._
+    -   What are reading levels and how do they differ from reading stage?
+    - _Reading Levels are different positions on the qualitative scale of reading. The higher the level, the higher the quality of reading and comprehension implied._
+    -   _Reading stages are steps within the reading process. One step follows from the other. So a reading level consists of various stage.
     -   _Each level is contained in the subsequent level. Each stage follows on from the previous stage. If you skip the levels, or the stages within the levels, you won't fully understand the book you're reading._
     -   Level 1: Elementary Reading: _The most basic level. The Aim here is to understand the words and sentences at the literal level. It's what we learn when we learn how to read or learn a foreign language. It is not a true level of reading._
     -   Level 2: Inspectional Reading. _The aim here is to get the most out of a book within a given time - usually a relatively short time, and always too short a time to get out of the book everything that can be gotten._
-        -   _Stage 1:_ Systematic Skimming or Pre-Reading. _The aim of this stage is to discover whether the book deserves a more careful reading. This stage seperates the chaff from the kernels of nourishment._
+        -   _Stage 1:_ Systematic Skimming or Pre-Reading. _The aim of this stage is to discover whether the book deserves a more careful reading. This stage separates the chaff from the kernels of nourishment._
         -   _Stage 2:_ Superficial Reading. _The aim of this stage is to form a vague idea of the book in its entirety, by reading it through from start to end quickly and never stopping no matter how hard it gets. Similar to speed reading - but with the difference that Superficial Reading is about reading at different speeds._
     -   Level 3: Analytical Reading. _Reading for the sake of understanding._
         -   Thorough, complete or good reading. The best reading you can do. It makes heavy demands on the reader.
@@ -43,7 +44,7 @@ by Mortimer J. Adler and Charles van Doren
     -   Follow these rules long enough and often enough, and they will become habitual and effortless.
 -   **On Notes.**
     -   Active reading means having a conversation with the author. The conversation can vary in terms of its depth or shallowness. Note taking, either in the book itself or on a notebook, is a record of the responses, thus transforming the conversation from a monologue to a dialogue.
-    -   There can be no real active reading without notes. If anything, notes at least keep you awake.
+    -   There can be no real active reading without notes. What this implies is that every stage of reading from Stage 2 onwards, should be accompanied by note taking. If anything, notes at least keep you awake.
     -   There are therefore 3 kinds of notes for the 3 levels of higher reading.
         -   Structural Notes:
             -   They capture your answers to Questions 1, 2 and 3 below.
@@ -55,7 +56,7 @@ by Mortimer J. Adler and Charles van Doren
         -   Dialectical Notes:
             -   They capture answers to questions posed during a Syntopical reading of several books.
             -   They pertain to shape of the discussion that is being undertaken by several authors, even if unbeknownst to them.
-            -   They often have to be made on a seperate sheet since they pertain to several books.
+            -   They often have to be made on a separate sheet since they pertain to several books.
 -   **Q1: What kind of a book is it?**
     -   Reading Level: Inspectional
     -   Stage: Systematic Skimming
@@ -67,7 +68,7 @@ by Mortimer J. Adler and Charles van Doren
             -   _Check the Index_, if present. Note the range of topics and other books and authors that have been referred to. Note and crucial-looking terms, and track them down in the text and see how they've been used.
             -   _Read the publisher's blurb._
             -   From the knowledge gleaned above, _look at the chapters that seem to be pivotal_ to the author's arguments. Read the introductions and conclusions.
-            -   _Read the last few pages_, bunting for the author's summary of the work.
+            -   _Read the last few pages_, hunting for the author's summary of the work.
             -   _Dip in and out_ - sampling randomly.
 -   **Q2: What is the book about, as a whole?**
     -   Reading Level: Inspectional
@@ -93,7 +94,7 @@ by Mortimer J. Adler and Charles van Doren
     -   Stage: Interpretive Reading
     -   Notes To Be Made: Conceptual Notes
     -   Rules for the Stage
-        -   Rule 5. Come to terms with the author by intepreting his key words.
+        -   Rule 5. Come to terms with the author by interpreting his key words.
         -   Rule 6. Grasp the author's leading propositions by dealing with his most important sentences.
         -   Rule 7. Know the author's arguments , by finding them in, or constructing them out of, sequences, of sentences.
         -   Rule 8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve.
@@ -102,7 +103,7 @@ by Mortimer J. Adler and Charles van Doren
     -   Stage: Critical Reading
     -   Notes To Be Made: Conceptual
     -   Rules for the Stage _The Rules of Intellectual Etiquette when Posing Criticism._
-        -   Rule 9. Do not begin criticism until you have completed your outline and your intepretation of the book. (Do not say you agree, disagree, or suspend judgement, until you can say "I understand.")  
+        -   Rule 9. Do not begin criticism until you have completed your outline and your interpretation of the book. (Do not say you agree, disagree, or suspend judgement, until you can say "I understand.")  
             The author lists this under the heading "General Maxims for Intellectual Etiquette"
             -   Rule 15. Show wherein the author's analysis or account is incomplete.  
                 The author lists this under the heading "Special Criteria for Points of Criticism"

@@ -1,0 +1,8 @@
+- [[_site/templates/nested beats and scenes in acts.md]]
+- [[_site/templates/comment markdown.md]]
+- [[_site/templates/comment html.md]]
+- [[_site/templates/Thematic Question Being Explored.md]]
+- [[_site/outlines/Excalidraw/Scripts/Downloaded/Split text by lines.md]]
+- [[_site/outlines/Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md]]
+- [[_site/outlines/Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md]]
+- [[_site/assets/lib/README.md]]
