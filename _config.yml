@@ -23,10 +23,10 @@ timezone: Africa/Johannesburg
 
 title: Fidel Namisi                          # the main title
 
-tagline: screenwriter and novelist  # it will display as the sub-title
+tagline: Making films, series, novels and comics. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  screenwriter and novelist
+  Making films, series, novels and comics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://fidelnamisi.com'
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://fidelnamisi.com/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'images/fidelnamisi.jpg'
+avatar: '/images/fidelnamisi.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
